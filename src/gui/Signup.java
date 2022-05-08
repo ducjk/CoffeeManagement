@@ -138,9 +138,6 @@ public class Signup extends javax.swing.JFrame {
         dispose();
     }//GEN-LAST:event_btnLogInNowMouseClicked
 
-    /**
-     * @param args the command line arguments
-     */
     
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
